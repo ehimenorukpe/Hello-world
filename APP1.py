@@ -1,0 +1,8 @@
+print("hello my world")
+print("you look gorgeous today")
+print("Draw a triangle below")
+print("    /|")
+print("   / |")
+print("  /  |")
+print(" /   |")
+print("/____|")
